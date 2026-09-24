@@ -1,0 +1,12 @@
+*-output.ipynb
+*.egg-info
+.ipynb_checkpoints/
+_ciso*.c
+_ciso*.html
+_ciso*.so
+build/
+ciso/_version.py
+dist/
+# pixi environments
+.pixi
+*.egg-info
